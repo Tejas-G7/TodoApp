@@ -25,6 +25,6 @@
 
 ## App Demo Video
 
-[Watch the App Demo Video](project_video/app_video.mp4)
+[Watch the App Demo Video](project_video/app_demo_video.mp4)
 
 
