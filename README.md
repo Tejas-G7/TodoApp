@@ -28,3 +28,17 @@
 [Watch the App Demo Video](project_video/app_demo_video.mp4)
 
 
+
+# 🚀 How to Run the App
+
+Follow these simple steps to get the app running on your machine.
+
+### 1. Clone the Repository
+Open your terminal and clone the project:(git clone  https://github.com/Tejas-G7/TodoApp.git)
+
+### 2. Install Dependencies
+Download the required Flutter packages: (flutter pub get)
+
+### 3. Run the App
+Connect your device or emulator and start the app: (flutter run )
+
